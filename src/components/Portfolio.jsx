@@ -20,10 +20,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Expenses Tracker",
       projectInfo:
         "Expense Tracker is a mobile web application designed to effortlessly monitor daily expenditures. Users can securely sign up, sign in, and diligently record daily expenses, enabling comprehensive monthly or yearly financial analysis. With customizable categories and transaction logging, users gain insights into their spending habits, fostering fiscal responsibility.",
-      client: "https://github.com/sumon766/expenses",
+      source: "https://github.com/sumon766/expenses",
       technologies: "React, Ruby on Rails",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://expenses-tracker-8m6v.onrender.com/",
       },
       thumbImage: "images/projects/expense-Tracker.png",
@@ -37,10 +37,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Bookstore CMS",
       projectInfo:
         "The Bookstore is a visionary undertaking akin to the renowned Awesome Books initiative, yet it stands as a testament to innovation and excellence in its own right. Distinctively crafted with React and seamlessly navigated using React Router, this project exemplifies the pinnacle of contemporary web development.",
-      client: "https://github.com/sumon766/bookstore",
+      source: "https://github.com/sumon766/bookstore",
       technologies: "React JS",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://sumon766.github.io/bookstore/",
       },
       thumbImage: "images/projects/bookstore.png",
@@ -54,10 +54,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Countries Navigator",
       projectInfo:
         "Countries Navigator is your passport to comprehensive country data. Browse all nations, filter by continents, and explore individual country details, including area, population, latitude, longitude, and currencies, all at your fingertips.",
-      client: "https://github.com/sumon766/countries-navigator",
+      source: "https://github.com/sumon766/countries-navigator",
       technologies: "React JS",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://sumon766.github.io/countries-navigator/",
       },
       thumbImage: "images/projects/countries-navigator.png",
@@ -72,10 +72,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Space Travelers Hub",
       projectInfo:
         "Space-Travelers-Hub represents a groundbreaking web application that opens the gateway to an unparalleled cosmic adventure. This innovative platform empowers users to embark on interstellar journeys by booking rockets, dragons, and even participating in meticulously curated space missions. Through seamless integration with APIs, it offers a dynamic and immersive experience, making the cosmos more accessible than ever before. Explore the universe with confidence, backed by the cutting-edge technology of SpaceX",
-      client: "https://github.com/sumon766/space-travelers-hub",
+      source: "https://github.com/sumon766/space-travelers-hub",
       technologies: "React JS",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://space-travelers-hub-five.vercel.app/",
       },
       thumbImage: "images/projects/space-travelers-hub.png",
@@ -89,10 +89,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Leaderboard",
       projectInfo:
         "The Leader Board is a dynamic showcase of game scores, elegantly displaying player names and their respective scores. Crafted using JavaScript and powered by APIs, it delivers a seamless and engaging gaming experience.",
-      client: "https://github.com/sumon766/leaderboard",
+      source: "https://github.com/sumon766/leaderboard",
       technologies: "React JS",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://sumon766.github.io/leaderboard/dist/",
       },
       thumbImage: "images/projects/leaderBoard.png",
@@ -105,10 +105,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Math Magician",
       projectInfo:
         "Math Magicians, a dazzling SPA forged with React, wields the mystic power to effortlessly conjure the solutions to a myriad of mathematical enigmas. Here one can perform mathematical calculations, see the quotes of great mathematicians and more.",
-      client: "https://github.com/sumon766/math-magicians",
+      source: "https://github.com/sumon766/math-magicians",
       technologies: "React",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://sumon766.github.io/math-magicians",
       },
       thumbImage: "images/projects/calculator-App.png",
@@ -121,10 +121,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       title: "Doctor Appointment",
       projectInfo:
         "The Doctor Appointment A website offers a user-friendly platform for patients to register, log in, set appointments, check doctor profiles, and manage their appointments. Admins can effortlessly add or delete doctors and monitor the platform, ensuring seamless healthcare access and efficient management. Backend is implemented as API-only. The front end is implemented utilizing the React Library.",
-      client: "https://github.com/sumon766/backend-doctor-appointment",
+      source: "https://github.com/sumon766/backend-doctor-appointment",
       technologies: "React, Ruby on Rails, RESTful API",
       url: {
-        name: "Live Demo",
+        name: "See Live Demo",
         link: "https://www.example.com",
       },
       thumbImage: "images/projects/doctor-App.png",
