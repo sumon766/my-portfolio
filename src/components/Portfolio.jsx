@@ -24,7 +24,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       technologies: "React, Ruby on Rails",
       url: {
         name: "See Live Demo",
-        link: "https://expenses-tracker-8m6v.onrender.com/",
+        link: "https://expense-tracker-ezmx.onrender.com/",
       },
       thumbImage: "images/projects/expense-Tracker.webp",
       sliderImages: [
