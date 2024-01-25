@@ -26,7 +26,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
         name: "See Live Demo",
         link: "https://www.digrajshahirange.gov.bd/",
       },
-      thumbImage: "images/projects/expense-Tracker.webp",
+      thumbImage: "images/projects/DIG-Rajshahi-Range.webp",
       sliderImages: [
         "images/projects/expense-Tracker-2.webp",
         "images/projects/expense-tracker-mobile.webp",
