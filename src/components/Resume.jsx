@@ -4,6 +4,12 @@ import resumeFile from "../documents/resume.pdf";
 const Resume = ({ classicHeader, darkTheme }) => {
   const educationDetails = [
     {
+      yearRange: "2023",
+      title: "Full Stack Web Development Program (Full-time)",
+      place: "MicroVerse",
+      desc: "Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux. Developed skills in remote pair programming using GitHub, industry-standard gitflow, linters, and daily standups to communicate and collaborate with international remote developers."
+    },
+    {
       yearRange: "2015",
       title: "Graduation",
       place: "University of Information Technology & Sciences, Dhaka",
@@ -26,22 +32,28 @@ const Resume = ({ classicHeader, darkTheme }) => {
 
   const experienceDetails = [
     {
+      yearRange: "2023",
+      title: "Mentor (Volunteer)",
+      place: "Microverse (Remote)",
+      desc: "Microverse Volunteer Mentor since July 2023. Provided 50+ code reviews, enhancing code quality by 25%. Advised students on program engagement, achieving a 20% increase in retention."
+    },
+    {
+      yearRange: "2019 - 2022",
+      title: "Executive - Business Ops",
+      place: "Digital HealthCare Solutions, Dhaka",
+      desc: "As an Executive, I played a key role in facilitating operations, bridging gap between tech and not tech teams, development of a cutting-edge customer data management tool, and stakeholder collaboration to increase team productivity."
+    },
+    {
       yearRange: "2017 - 2019",
-      title: "Executive",
-      place: "Telenor Health, Dhaka",
-      desc: "As an Executive at Telenor Health in Dhaka, I played a key role in facilitating operations and supporting the team in achieving organizational excellence."
-    },
-    {
-      yearRange: "2018 - 2019",
-      title: "Jr. Web Developer",
+      title: "Jr. Software Engineer",
       place: "Desktop IT, Dhaka",
-      desc: "During my tenure as a Jr. Web Developer at Desktop IT in Dhaka, I contributed to web development projects, transforming ideas into functional and responsive web applications."
+      desc: "During my tenure as a Jr. Software Engineer, I contributed in orchestrating functional web development using Laravel and WordPress and fostered effective client communication strategies, ensuring a clear project understanding and satisfaction"
     },
     {
-      yearRange: "2016 - 2018",
-      title: "Jr. UI UX Designer",
-      place: "NWIT, Dhaka",
-      desc: "As a Jr. UI/UX Designer at NWIT in Dhaka, I collaborated on creating visually stunning and user-friendly interfaces, shaping digital experiences that captivated users."
+      yearRange: "2015 - 2017",
+      title: "Web Designer",
+      place: "New Horizons Computer Learning Centers",
+      desc: "Crafted visually stunning UIs tailored to precise project requirements. Spearheaded mobile-first UI development strategies, significantly enhancing accessibility across diverse devices and platforms and played a pivotal role in skill development by providing comprehensive training on web technologies and coding"
     },
   ];
 

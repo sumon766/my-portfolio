@@ -17,6 +17,23 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 
   const projectsData = [
     {
+      title: "DIG Rajshahi Range",
+      projectInfo:
+        "A website developed for the Bangladesh Police, specifically catering to the Rajshahi Range Police division. Built using Laravel and Bootstrap, this site serves as an all-inclusive platform for accessing info about the Rajshahi Range Police.",
+      source: "",
+      technologies: "Laravel, Bootstrap",
+      url: {
+        name: "See Live Demo",
+        link: "https://www.digrajshahirange.gov.bd/",
+      },
+      thumbImage: "images/projects/expense-Tracker.webp",
+      sliderImages: [
+        "images/projects/expense-Tracker-2.webp",
+        "images/projects/expense-tracker-mobile.webp",
+      ],
+      categories: [filters.RAILS],
+    },
+    {
       title: "Expenses Tracker",
       projectInfo:
         "Expense Tracker is a mobile web application designed to effortlessly monitor daily expenditures. Users can securely sign up, sign in, and diligently record daily expenses, enabling comprehensive monthly or yearly financial analysis. With customizable categories and transaction logging, users gain insights into their spending habits, fostering fiscal responsibility.",
@@ -24,7 +41,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       technologies: "React, Ruby on Rails",
       url: {
         name: "See Live Demo",
-        link: "https://expense-tracker-ezmx.onrender.com/",
+        link: "",
       },
       thumbImage: "images/projects/expense-Tracker.webp",
       sliderImages: [
